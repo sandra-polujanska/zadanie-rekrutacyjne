@@ -1,0 +1,20 @@
+{
+  "name": "zadanie-rekrutacyjne",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandra-polujanska/zadanie-rekrutacyjne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandra-polujanska/zadanie-rekrutacyjne/issues"
+  },
+  "homepage": "https://github.com/sandra-polujanska/zadanie-rekrutacyjne#readme"
+}
